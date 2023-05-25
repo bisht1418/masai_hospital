@@ -1,0 +1,23 @@
+{
+  "name": "masai_hospital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisht1418/masai_hospital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bisht1418/masai_hospital/issues"
+  },
+  "homepage": "https://github.com/bisht1418/masai_hospital#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
